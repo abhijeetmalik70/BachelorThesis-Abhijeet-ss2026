@@ -1,0 +1,1301 @@
+row_id,model,pred_accuracy,pred_context_relevance,pred_tone,raw_output
+0,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+0,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+0,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+0,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+1,gemma4:latest,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+1,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+1,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+1,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+2,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+2,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+2,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+2,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+3,gemma4:latest,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+3,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+3,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+3,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+4,gemma4:latest,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+4,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+4,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+4,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+5,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+5,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+5,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+5,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+6,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+6,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+6,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+6,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+7,gemma4:latest,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+7,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+7,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+7,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+8,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+8,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+8,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+8,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+9,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+9,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+9,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+9,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+10,gemma4:latest,1,2,1,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 1}"
+10,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+10,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+10,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+11,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+11,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+11,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+11,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+12,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+12,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+12,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+12,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+13,gemma4:latest,1,2,0,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 0}"
+13,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+13,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+13,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+14,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+14,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+14,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+14,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+15,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+15,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+15,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+15,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+16,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+16,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+16,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+16,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+17,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+17,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+17,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+17,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+18,gemma4:latest,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+18,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+18,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+18,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+19,gemma4:latest,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+19,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+19,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+19,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+20,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+20,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+20,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+20,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+21,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+21,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+21,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+21,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+22,gemma4:latest,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+22,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+22,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+22,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+23,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+23,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+23,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+23,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+24,gemma4:latest,2,1,2,"{""accuracy"": 2, ""context_relevance"": 1, ""tone"": 2}"
+24,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+24,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+24,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+25,gemma4:latest,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+25,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+25,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+25,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+26,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+26,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+26,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+26,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+27,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+27,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+27,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+27,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+28,gemma4:latest,1,2,1,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 1}"
+28,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+28,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+28,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+29,gemma4:latest,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+29,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+29,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+29,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+30,gemma4:latest,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+30,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+30,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+30,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+31,gemma4:latest,1,2,1,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 1}"
+31,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+31,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+31,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+32,gemma4:latest,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+32,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+32,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+32,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+33,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+33,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+33,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+33,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+34,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+34,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+34,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+34,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+35,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+35,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+35,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+35,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+36,gemma4:latest,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+36,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+36,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+36,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+37,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+37,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+37,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+37,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+38,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+38,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+38,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+38,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+39,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+39,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+39,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+39,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+40,gemma4:latest,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+40,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+40,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+40,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+41,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+41,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+41,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+41,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+42,gemma4:latest,0,1,0,"{""accuracy"": 0, ""context_relevance"": 1, ""tone"": 0}"
+42,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+42,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+42,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+43,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+43,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+43,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+43,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+44,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+44,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+44,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+44,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+45,gemma4:latest,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+45,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+45,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+45,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+46,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+46,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+46,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+46,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+47,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+47,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+47,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+47,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+48,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+48,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+48,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+48,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+49,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+49,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+49,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+49,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+50,gemma4:latest,2,1,2,"{""accuracy"": 2, ""context_relevance"": 1, ""tone"": 2}"
+50,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+50,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+50,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+51,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+51,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+51,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+51,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+52,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+52,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+52,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+52,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+53,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+53,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+53,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+53,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+54,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+54,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+54,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+54,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+55,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+55,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+55,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+55,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+56,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+56,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+56,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+56,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+57,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+57,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+57,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+57,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+58,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+58,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+58,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+58,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+59,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+59,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+59,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+59,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+60,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+60,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+60,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+60,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+61,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+61,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+61,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+61,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+62,gemma4:latest,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+62,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+62,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+62,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+63,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+63,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+63,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+63,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+64,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+64,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+64,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+64,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+65,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+65,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+65,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+65,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+66,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+66,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+66,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+66,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+67,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+67,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+67,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+67,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+68,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+68,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+68,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+68,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+69,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+69,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+69,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+69,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+70,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+70,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+70,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+70,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+71,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+71,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+71,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+71,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+72,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+72,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+72,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+72,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+73,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+73,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+73,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+73,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+74,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+74,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+74,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+74,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+75,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+75,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+75,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+75,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+76,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+76,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+76,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+76,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+77,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+77,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+77,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+77,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+78,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+78,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+78,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+78,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+79,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+79,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+79,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+79,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+80,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+80,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+80,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+80,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+81,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+81,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+81,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+81,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+82,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+82,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+82,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+82,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+83,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+83,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+83,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+83,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+84,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+84,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+84,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+84,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+85,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+85,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+85,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+85,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+86,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+86,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+86,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+86,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+87,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+87,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+87,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+87,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+88,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+88,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+88,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+88,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+89,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+89,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+89,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+89,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+90,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+90,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+90,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+90,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+91,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+91,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+91,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+91,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+92,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+92,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+92,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+92,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+93,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+93,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+93,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+93,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+94,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+94,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+94,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+94,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+95,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+95,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+95,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+95,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+96,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+96,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+96,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+96,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+97,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+97,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+97,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+97,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+98,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+98,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+98,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+98,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+99,gemma4:latest,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+99,gemma4:e2b,-1,-1,-1,[ERROR: model 'gemma4:e2b' not found (status code: 404)]
+99,gemma4:e4b,-1,-1,-1,[ERROR: model 'gemma4:e4b' not found (status code: 404)]
+99,gemma4:12b,-1,-1,-1,[ERROR: model 'gemma4:12b' not found (status code: 404)]
+0,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+0, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+0,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+0,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+0,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+0,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+0,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+0,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+0,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+1,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+1, gemma4:31b,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+1,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+1,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+1,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+1,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+1,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+1,gemma4:cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+1,gemma4:31b-cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+2,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+2, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+2,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+2,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+2,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+2,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+2,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+2,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+2,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+3,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+3, gemma4:31b,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+3,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+3,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+3,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+3,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+3,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+3,gemma4:cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+3,gemma4:31b-cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+4,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+4, gemma4:31b,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+4,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+4,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+4,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+4,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+4,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+4,gemma4:cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+4,gemma4:31b-cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+5,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+5, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+5,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+5,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+5,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+5,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+5,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+5,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+5,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+6,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+6, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+6,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+6,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+6,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+6,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+6,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+6,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+6,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+7,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+7, gemma4:31b,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+7,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+7,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+7,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+7,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+7,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+7,gemma4:cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+7,gemma4:31b-cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+8,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+8, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+8,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+8,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+8,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+8,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+8,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+8,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+8,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+9,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+9, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+9,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+9,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+9,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+9,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+9,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+9,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+9,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+10,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+10, gemma4:31b,1,1,1,"{""accuracy"": 1, ""context_relevance"": 1, ""tone"": 1}"
+10,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+10,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+10,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+10,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+10,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+10,gemma4:cloud,1,1,1,"{""accuracy"": 1, ""context_relevance"": 1, ""tone"": 1}"
+10,gemma4:31b-cloud,1,1,1,"{""accuracy"": 1, ""context_relevance"": 1, ""tone"": 1}"
+11,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+11, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+11,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+11,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+11,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+11,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+11,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+11,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+11,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+12,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+12, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+12,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+12,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+12,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+12,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+12,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+12,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+12,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+13,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+13, gemma4:31b,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+13,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+13,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+13,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+13,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+13,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+13,gemma4:cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+13,gemma4:31b-cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+14,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+14, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+14,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+14,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+14,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+14,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+14,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+14,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+14,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+15,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+15, gemma4:31b,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+15,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+15,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+15,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+15,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+15,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+15,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+15,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+16,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+16, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+16,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+16,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+16,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+16,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+16,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+16,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+16,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+17,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+17, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+17,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+17,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+17,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+17,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+17,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+17,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+17,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+18,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+18, gemma4:31b,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+18,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+18,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+18,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+18,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+18,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+18,gemma4:cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+18,gemma4:31b-cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+19,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+19, gemma4:31b,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+19,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+19,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+19,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+19,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+19,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+19,gemma4:cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+19,gemma4:31b-cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+20,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+20, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+20,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+20,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+20,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+20,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+20,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+20,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+20,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+21,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+21, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+21,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+21,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+21,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+21,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+21,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+21,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+21,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+22,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+22, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+22,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+22,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+22,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+22,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+22,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+22,gemma4:cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+22,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+23,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+23, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+23,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+23,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+23,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+23,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+23,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+23,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+23,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+24,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+24, gemma4:31b,2,1,2,"{""accuracy"": 2, ""context_relevance"": 1, ""tone"": 2}"
+24,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+24,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+24,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+24,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+24,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+24,gemma4:cloud,2,1,2,"{""accuracy"": 2, ""context_relevance"": 1, ""tone"": 2}"
+24,gemma4:31b-cloud,2,1,2,"{""accuracy"": 2, ""context_relevance"": 1, ""tone"": 2}"
+25,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+25, gemma4:31b,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+25,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+25,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+25,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+25,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+25,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+25,gemma4:cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+25,gemma4:31b-cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+26,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+26, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+26,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+26,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+26,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+26,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+26,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+26,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+26,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+27,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+27, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+27,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+27,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+27,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+27,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+27,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+27,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+27,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+28,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+28, gemma4:31b,1,2,1,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 1}"
+28,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+28,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+28,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+28,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+28,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+28,gemma4:cloud,1,2,1,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 1}"
+28,gemma4:31b-cloud,1,2,1,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 1}"
+29,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+29, gemma4:31b,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+29,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+29,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+29,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+29,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+29,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+29,gemma4:cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+29,gemma4:31b-cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+30,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+30, gemma4:31b,1,2,1,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 1}"
+30,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+30,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+30,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+30,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+30,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+30,gemma4:cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+30,gemma4:31b-cloud,1,2,1,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 1}"
+31,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+31, gemma4:31b,1,2,1,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 1}"
+31,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+31,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+31,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+31,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+31,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+31,gemma4:cloud,1,2,1,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 1}"
+31,gemma4:31b-cloud,1,2,0,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 0}"
+32,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+32, gemma4:31b,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+32,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+32,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+32,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+32,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+32,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+32,gemma4:cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+32,gemma4:31b-cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+33,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+33, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+33,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+33,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+33,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+33,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+33,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+33,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+33,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+34,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+34, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+34,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+34,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+34,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+34,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+34,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+34,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+34,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+35,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+35, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+35,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+35,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+35,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+35,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+35,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+35,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+35,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+36,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+36, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+36,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+36,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+36,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+36,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+36,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+36,gemma4:cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+36,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+37,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+37, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+37,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+37,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+37,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+37,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+37,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+37,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+37,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+38,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+38, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+38,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+38,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+38,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+38,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+38,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+38,gemma4:cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+38,gemma4:31b-cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+39,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+39, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+39,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+39,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+39,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+39,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+39,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+39,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+39,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+40,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+40, gemma4:31b,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+40,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+40,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+40,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+40,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+40,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+40,gemma4:cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+40,gemma4:31b-cloud,2,2,1,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 1}"
+41,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+41, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+41,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+41,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+41,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+41,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+41,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+41,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+41,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+42,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+42, gemma4:31b,0,1,0,"{""accuracy"": 0, ""context_relevance"": 1, ""tone"": 0}"
+42,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+42,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+42,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+42,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+42,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+42,gemma4:cloud,0,1,0,"{""accuracy"": 0, ""context_relevance"": 1, ""tone"": 0}"
+42,gemma4:31b-cloud,0,1,0,"{""accuracy"": 0, ""context_relevance"": 1, ""tone"": 0}"
+43,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+43, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+43,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+43,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+43,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+43,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+43,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+43,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+43,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+44,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+44, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+44,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+44,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+44,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+44,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+44,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+44,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+44,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+45,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+45, gemma4:31b,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+45,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+45,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+45,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+45,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+45,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+45,gemma4:cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+45,gemma4:31b-cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+46,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+46, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+46,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+46,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+46,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+46,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+46,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+46,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+46,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+47,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+47, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+47,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+47,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+47,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+47,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+47,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+47,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+47,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+48,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+48, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+48,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+48,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+48,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+48,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+48,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+48,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+48,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+49,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+49, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+49,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+49,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+49,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+49,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+49,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+49,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+49,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+50,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+50, gemma4:31b,2,1,2,"{""accuracy"": 2, ""context_relevance"": 1, ""tone"": 2}"
+50,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+50,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+50,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+50,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+50,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+50,gemma4:cloud,1,1,2,"{""accuracy"": 1, ""context_relevance"": 1, ""tone"": 2}"
+50,gemma4:31b-cloud,2,1,2,"{""accuracy"": 2, ""context_relevance"": 1, ""tone"": 2}"
+51,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+51, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+51,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+51,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+51,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+51,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+51,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+51,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+51,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+52,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+52, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+52,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+52,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+52,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+52,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+52,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+52,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+52,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+53,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+53, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+53,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+53,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+53,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+53,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+53,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+53,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+53,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+54,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+54, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+54,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+54,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+54,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+54,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+54,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+54,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+54,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+55,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+55, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+55,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+55,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+55,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+55,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+55,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+55,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+55,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+56,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+56, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+56,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+56,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+56,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+56,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+56,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+56,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+56,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+57,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+57, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+57,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+57,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+57,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+57,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+57,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+57,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+57,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+58,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+58, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+58,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+58,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+58,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+58,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+58,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+58,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+58,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+59,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+59, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+59,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+59,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+59,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+59,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+59,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+59,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+59,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+60,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+60, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+60,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+60,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+60,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+60,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+60,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+60,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+60,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+61,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+61, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+61,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+61,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+61,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+61,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+61,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+61,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+61,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+62,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+62, gemma4:31b,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+62,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+62,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+62,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+62,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+62,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+62,gemma4:cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+62,gemma4:31b-cloud,1,2,2,"{""accuracy"": 1, ""context_relevance"": 2, ""tone"": 2}"
+63,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+63, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+63,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+63,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+63,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+63,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+63,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+63,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+63,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+64,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+64, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+64,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+64,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+64,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+64,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+64,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+64,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+64,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+65,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+65, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+65,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+65,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+65,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+65,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+65,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+65,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+65,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+66,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+66, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+66,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+66,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+66,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+66,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+66,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+66,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+66,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+67,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+67, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+67,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+67,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+67,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+67,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+67,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+67,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+67,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+68,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+68, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+68,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+68,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+68,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+68,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+68,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+68,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+68,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+69,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+69, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+69,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+69,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+69,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+69,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+69,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+69,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+69,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+70,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+70, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+70,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+70,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+70,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+70,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+70,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+70,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+70,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+71,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+71, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+71,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+71,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+71,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+71,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+71,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+71,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+71,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+72,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+72, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+72,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+72,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+72,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+72,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+72,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+72,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+72,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+73,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+73, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+73,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+73,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+73,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+73,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+73,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+73,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+73,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+74,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+74, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+74,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+74,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+74,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+74,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+74,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+74,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+74,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+75,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+75, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+75,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+75,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+75,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+75,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+75,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+75,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+75,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+76,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+76, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+76,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+76,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+76,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+76,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+76,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+76,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+76,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+77,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+77, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+77,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+77,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+77,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+77,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+77,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+77,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+77,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+78,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+78, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+78,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+78,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+78,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+78,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+78,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+78,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+78,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+79,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+79, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+79,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+79,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+79,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+79,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+79,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+79,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+79,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+80,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+80, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+80,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+80,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+80,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+80,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+80,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+80,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+80,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+81,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+81, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+81,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+81,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+81,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+81,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+81,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+81,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+81,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+82,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+82, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+82,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+82,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+82,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+82,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+82,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+82,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+82,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+83,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+83, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+83,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+83,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+83,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+83,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+83,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+83,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+83,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+84,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+84, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+84,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+84,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+84,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+84,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+84,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+84,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+84,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+85,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+85, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+85,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+85,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+85,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+85,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+85,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+85,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+85,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+86,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+86, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+86,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+86,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+86,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+86,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+86,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+86,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+86,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+87,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+87, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+87,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+87,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+87,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+87,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+87,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+87,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+87,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+88,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+88, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+88,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+88,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+88,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+88,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+88,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+88,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+88,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+89,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+89, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+89,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+89,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+89,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+89,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+89,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+89,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+89,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+90,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+90, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+90,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+90,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+90,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+90,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+90,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+90,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+90,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+91,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+91, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+91,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+91,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+91,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+91,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+91,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+91,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+91,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+92,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+92, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+92,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+92,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+92,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+92,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+92,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+92,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+92,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+93,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+93, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+93,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+93,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+93,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+93,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+93,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+93,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+93,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+94,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+94, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+94,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+94,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+94,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+94,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+94,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+94,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+94,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+95,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+95, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+95,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+95,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+95,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+95,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+95,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+95,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+95,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+96,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+96, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+96,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+96,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+96,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+96,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+96,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+96,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+96,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+97,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+97, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+97,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+97,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+97,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+97,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+97,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+97,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+97,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+98,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+98, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+98,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+98,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+98,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+98,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+98,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+98,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+98,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+99,gemma4:26b,-1,-1,-1,[ERROR: model 'gemma4:26b' not found (status code: 404)]
+99, gemma4:31b,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+99,gemma4:e2b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e2b-mlx' not found (status code: 404)]
+99,gemma4:e4b-mlx,-1,-1,-1,[ERROR: model 'gemma4:e4b-mlx' not found (status code: 404)]
+99,gemma4:12b-mlx,-1,-1,-1,[ERROR: model 'gemma4:12b-mlx' not found (status code: 404)]
+99,gemma4:26b-mlx,-1,-1,-1,[ERROR: model 'gemma4:26b-mlx' not found (status code: 404)]
+99,gemma4:31b-mlx,-1,-1,-1,[ERROR: model 'gemma4:31b-mlx' not found (status code: 404)]
+99,gemma4:cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"
+99,gemma4:31b-cloud,2,2,2,"{""accuracy"": 2, ""context_relevance"": 2, ""tone"": 2}"

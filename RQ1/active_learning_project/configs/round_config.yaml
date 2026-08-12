@@ -1,0 +1,42 @@
+# ============================================================
+# Active Learning Round Configuration
+# Edit this file at the start of every round (bump `round`,
+# adjust paths/thresholds as needed), then run the scripts in
+# order: train.py -> infer.py -> select_failures.py
+# -> (manual labeling) -> merge_labels.py -> evaluate.py
+# ============================================================
+round: 1                                   # current AL round number
+model:
+  base_model_name: "google/gemma-4-E4B-it"     # HF model id to download/fine-tune
+  local_base_path: "models/base_model"     # where the base model gets cached
+  checkpoint_dir: "models/checkpoints"     # round checkpoints get saved as checkpoints/round_XX
+  num_labels: 3                            # per-task label cardinality (0/1/2) — shared by both heads below
+  max_length: 512
+data:
+  raw_dataset: "/content/active_learning_project/data/raw/Combined_QnA_with_Labels.xlsx"
+  unlabeled_pool: "/content/active_learning_project/data/unlabeled.xlsx"
+  master_labeled_dataset: "/content/active_learning_project/data/labeled.xlsx"
+  text_columns:                            # multiple text fields, combined into one model input
+    - "Sanitized Question"
+    - "Answer Transcription"
+    - "Relevant answer"
+  text_combine_strategy: "concat"          # concat | template — how the text_columns are joined
+  text_separator: " [SEP] "                # inserted between text_columns when strategy is "concat"
+  label_columns:                           # multi-task: one classification head per label column
+    - "Accuracy"
+    - "Context & Relevance"
+  id_column: "id"                          # unique row identifier (created if missing)
+  val_split: 0.15                          # held-out slice of master_labeled_dataset for evaluate.py
+training:
+  epochs: 4
+  batch_size: 8
+  learning_rate: 2e-5
+  seed: 42
+  loss_weights:                            # relative weight of each label column's loss in the combined objective
+    Accuracy: 1.0
+    Context & Relevance: 1.0
+active_learning:
+  strategy: "least_confidence"             # least_confidence | margin | entropy
+  failures_per_round: 50                   # how many rows to send for manual review each round
+  confidence_threshold: 0.6                # rows below this max-softmax-prob are candidates
+  aggregation: "min"                       # min | mean — how per-head confidences combine into one row-level score

@@ -1,0 +1,7 @@
+ollama
+requests
+pandas
+tqdm
+openpyxl
+matplotlib
+scikit-learn

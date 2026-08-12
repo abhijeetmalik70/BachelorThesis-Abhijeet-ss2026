@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,mIoU
+gemma4:31b,0.74,0.38,0.355,0.343,0.279
