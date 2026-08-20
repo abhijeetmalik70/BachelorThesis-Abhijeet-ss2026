@@ -1,4 +1,0 @@
-model,accuracy,precision_macro,recall_macro,f1_macro,mIoU
-gemma4:31b,0.75,0.423,0.376,0.37,0.299
-gemma4:31b-cloud,0.745,0.406,0.374,0.366,0.294
-gemma4:latest,0.74,0.399,0.371,0.364,0.292
