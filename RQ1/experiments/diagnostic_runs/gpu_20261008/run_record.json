@@ -1,0 +1,15 @@
+{
+  "experiment": "diagnostic_balanced_overfit_30",
+  "host": "idisc-09.cs.uni-saarland.de",
+  "reported_hostname": "jianlong-cluster",
+  "remote_root": "/home/abma00001/rq1_overfit_20261008",
+  "remote_pid": 770096,
+  "gpu": "NVIDIA RTX A4000 16 GB",
+  "torch": "2.13.0+cu130",
+  "transformers": "4.57.6",
+  "peft": "0.18.0",
+  "status": "complete",
+  "data_transfer": "Exact 30 locally selected examples exported to CSV; full source workbook hash and source rows preserved in selection_manifest.json and selected_30.csv",
+  "evaluation_scope": "training-set memorization diagnostic, not generalization",
+  "python_environment": "isolated venv with existing CUDA dependencies inherited through gpu_dependencies.pth"
+}

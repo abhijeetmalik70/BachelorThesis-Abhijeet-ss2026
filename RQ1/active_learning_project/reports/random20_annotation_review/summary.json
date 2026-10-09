@@ -1,0 +1,48 @@
+{
+  "seed": 20260925,
+  "method": "pandas.DataFrame.sample(n=20, replace=False, random_state=20260925)",
+  "population_size": 1100,
+  "sample_size": 20,
+  "source_sha256": "85f8365b806197a88fcfb9d3ab0b17c22c76100d67b3c28070899332314b2eeb",
+  "pandas_version": "2.3.1",
+  "sample_row_ids": [
+    163,
+    623,
+    240,
+    843,
+    1288,
+    967,
+    829,
+    904,
+    742,
+    312,
+    395,
+    552,
+    357,
+    300,
+    498,
+    374,
+    977,
+    935,
+    226,
+    444
+  ],
+  "source_distribution": {
+    "SRHR": 20
+  },
+  "pair_results": {
+    "Disputed": 9,
+    "Uncertain": 7,
+    "Agrees": 4
+  },
+  "accuracy_results": {
+    "Disputed": 7,
+    "Uncertain": 6,
+    "Agrees": 7
+  },
+  "context_results": {
+    "Agrees": 11,
+    "Uncertain": 3,
+    "Disputed": 6
+  }
+}

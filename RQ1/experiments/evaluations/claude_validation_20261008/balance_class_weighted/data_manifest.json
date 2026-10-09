@@ -1,0 +1,44 @@
+{
+  "validation": {
+    "path": "/Users/abhijeetmalik/Desktop/BachelorThesis-Abhijeet-ss2026/RQ1/active_learning_project/data/validationset/anjali_dataset_labeled.csv",
+    "sha256": "4ac00233e8b67f6d148d7bd5903b94a6badecad5585fc7162b30c0a9fb6096ea",
+    "rows": 100,
+    "label_columns": {
+      "accuracy": "claude_accuracy",
+      "context_relevance": "claude_context_relevance"
+    }
+  },
+  "train": {
+    "path": "/home/abma00001/rq1_balance_none_20261008/RQ1/active_learning_project/data/trainset/trainset.xlsx",
+    "sha256": "92aa64be7c55fcdeb3fe8c7e172fd4a6547108814ebe0cf7cf70d6bc840a304e",
+    "rows": 1652,
+    "label_columns": {
+      "accuracy": "Accuracy",
+      "context_relevance": "Context & Relevance"
+    },
+    "selected_rows": 500,
+    "shared_questions": 33,
+    "class_counts": {
+      "accuracy": {
+        "0": 11,
+        "1": 20,
+        "2": 469
+      },
+      "context_relevance": {
+        "0": 17,
+        "1": 13,
+        "2": 470
+      }
+    }
+  },
+  "rescoring": {
+    "source_run": "/Users/abhijeetmalik/Desktop/BachelorThesis-Abhijeet-ss2026/RQ1/experiments/results/balance_class_weighted_gpu_20261008",
+    "method": "Replace reference labels only; saved predictions and parsing unchanged",
+    "label_source": "Claude",
+    "no_training_or_inference_performed": true,
+    "source_prediction_sha256": {
+      "baseline": "2e7a814c517b9937a8302696fcd15f0eb43df818171bab155d99f1e1577bd391",
+      "adapted": "051f2e56c06e87ae5233d4bb554f24336f2578a1dff36fc7035fe29ed7f5dc6f"
+    }
+  }
+}

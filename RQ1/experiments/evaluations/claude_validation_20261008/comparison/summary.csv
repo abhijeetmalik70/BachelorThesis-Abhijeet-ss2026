@@ -1,0 +1,9 @@
+,,,,,,,accuracy_macro_f1,accuracy_macro_f1,context_macro_f1,context_macro_f1,selection_score,selection_score,json_failure_rate,json_failure_rate,inference_seconds,inference_seconds,peak_gpu_bytes,peak_gpu_bytes,disagreement_rate,disagreement_rate
+,,,,,,,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+name,model,stage,train_size,sequence_length,input_policy,balance,,,,,,,,,,,,,,
+balance_class_weighted_claude_validation_rescored,google/gemma-3-4b-it,adapted,500,512,preserve_question,class_weighted,0.32653061224489793,0.0,0.32653061224489793,0.0,0.32653061224489793,0.0,0.0,0.0,28.861450360078987,0.1039250557652245,5521704448.0,0.0,0.0,0.0
+balance_class_weighted_claude_validation_rescored,google/gemma-3-4b-it,baseline,0,512,preserve_question,class_weighted,0.2857142857142857,0.0,0.31762652705061084,0.0,0.30167040638244824,0.0,0.0,0.0,25.45312302062909,0.2662212319653791,3702192128.0,0.0,0.0,0.0
+balance_none_claude_validation_rescored,google/gemma-3-4b-it,adapted,500,512,preserve_question,none,0.32653061224489793,0.0,0.32653061224489793,0.0,0.32653061224489793,0.0,0.0,0.0,28.820086861029267,0.09624539029647391,5521704448.0,0.0,0.0,0.0
+balance_none_claude_validation_rescored,google/gemma-3-4b-it,baseline,0,512,preserve_question,none,0.2857142857142857,0.0,0.31762652705061084,0.0,0.30167040638244824,0.0,0.0,0.0,25.42391974797162,0.17257453502276304,3702192128.0,0.0,0.0,0.0
+balance_sampling_accuracy_claude_validation_rescored,google/gemma-3-4b-it,adapted,500,512,preserve_question,balanced_sampling,0.32124352331606215,0.0,0.32653061224489793,0.0,0.32388706778048004,0.0,0.0,0.0,28.858938951743767,0.09530009679399486,5521704448.0,0.0,0.0,0.0
+balance_sampling_accuracy_claude_validation_rescored,google/gemma-3-4b-it,baseline,0,512,preserve_question,balanced_sampling,0.2857142857142857,0.0,0.31762652705061084,0.0,0.30167040638244824,0.0,0.0,0.0,25.3121150630371,0.27997197524850603,3702192128.0,0.0,0.0,0.0

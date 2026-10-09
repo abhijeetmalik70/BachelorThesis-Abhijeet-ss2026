@@ -1,0 +1,9 @@
+{
+  "model_id": "google/gemma-3-4b-it",
+  "requested_revision": null,
+  "resolved_revision": "093f9f388b31de276ce2de164bdc2081324b9767",
+  "model_class": "Gemma3ForConditionalGeneration",
+  "gpu": "NVIDIA RTX A4000",
+  "gpu_total_bytes": 16752181248,
+  "compute_dtype": "torch.bfloat16"
+}

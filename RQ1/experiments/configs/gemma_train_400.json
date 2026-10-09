@@ -1,0 +1,65 @@
+{
+  "name": "gemma_train_400_claude_validation",
+  "mode": "train",
+  "seed": 42,
+  "model": {
+    "id": "google/gemma-3-4b-it",
+    "revision": null,
+    "loader": "gemma3",
+    "four_bit": true
+  },
+  "data": {
+    "subset_seed": 42,
+    "train": {
+      "path": "RQ1/active_learning_project/data/trainset/trainset.xlsx",
+      "question": "Sanitized Question",
+      "answer": "Answer Transcription",
+      "accuracy": "Accuracy",
+      "context_relevance": "Context & Relevance",
+      "id": "Row ID"
+    },
+    "validation": {
+      "path": "RQ1/active_learning_project/data/validationset/anjali_dataset_labeled.csv",
+      "question": "question",
+      "answer": "model_answer",
+      "accuracy": "claude_accuracy",
+      "context_relevance": "claude_context_relevance",
+      "id": "id"
+    }
+  },
+  "input": {
+    "policy": "preserve_question",
+    "max_sequence_length": 512,
+    "max_answer_tokens": null
+  },
+  "lora": {
+    "rank": 8,
+    "alpha": 16,
+    "dropout": 0.05,
+    "target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj"
+    ]
+  },
+  "training": {
+    "train_size": 400,
+    "epochs": 2,
+    "batch_size": 1,
+    "gradient_accumulation_steps": 24,
+    "learning_rate": 0.0002,
+    "warmup_ratio": 0.05,
+    "weight_decay": 0.01,
+    "max_grad_norm": 1.0,
+    "optimizer": "paged_adamw_8bit",
+    "balance": "class_weighted"
+  },
+  "inference": {
+    "batch_size": 4,
+    "repeats": 3,
+    "max_new_tokens": 64,
+    "do_sample": false,
+    "temperature": 0.7
+  }
+}

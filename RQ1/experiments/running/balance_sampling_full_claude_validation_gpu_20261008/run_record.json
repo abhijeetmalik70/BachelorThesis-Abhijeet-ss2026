@@ -1,0 +1,18 @@
+{
+  "status": "training",
+  "remote_pid": 773754,
+  "host": "idisc-09.cs.uni-saarland.de",
+  "remote_root": "/home/abma00001/rq1_balance_sampling_full_20261008",
+  "remote_log": "/home/abma00001/rq1_balance_sampling_full_20261008/experiment.log",
+  "estimated_training_minutes": "75\u201385",
+  "pool_rows": 1650,
+  "presentations_per_epoch": 4674,
+  "epochs": 2,
+  "planned_optimizer_steps": 390,
+  "excluded_conflicting_ids": [
+    "1384",
+    "1385"
+  ],
+  "runtime_sampling_verified": true,
+  "observed_epoch": 0.01
+}

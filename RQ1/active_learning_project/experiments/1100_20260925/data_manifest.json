@@ -1,0 +1,48 @@
+{
+  "status": "prepared_not_started",
+  "model": "google/gemma-3-4b-it",
+  "train_rows": 1100,
+  "validation_rows": 100,
+  "train_label_source": "accepted existing Claude labels; no audit corrections applied",
+  "validation_label_source": "git 0be5e8151e72448dbc33c6f31f8590cad386f654:RQ1/active_learning_project/data/varification set/anjali_dataset.csv",
+  "source_workbook_sha256": "85f8365b806197a88fcfb9d3ab0b17c22c76100d67b3c28070899332314b2eeb",
+  "train_accuracy_counts": {
+    "0": 43,
+    "1": 22,
+    "2": 1035
+  },
+  "train_context_counts": {
+    "0": 45,
+    "1": 10,
+    "2": 1045
+  },
+  "exact_pair_overlap": 0,
+  "question_overlap": 42,
+  "test_usage": "final_test.xlsx excluded from this run",
+  "file_sha256": {
+    "train.csv": "2fb62827dce02982c7029734df679f4f10d30cb1380312d8928968e00d04302a",
+    "validation_human.csv": "9cd276b39a7241bb4bdc706f65dd65dc722cf28192b28b2f9ff91d88d850d09c"
+  },
+  "task": "accuracy only",
+  "training_settings": {
+    "epochs": 1,
+    "learning_rate": 1e-05,
+    "batch_size": 1,
+    "gradient_accumulation_steps": 4,
+    "lora_r": 8,
+    "lora_alpha": 16,
+    "lora_dropout": 0.05,
+    "seed": 42,
+    "oversampling": true,
+    "effective_training_entries": 3105,
+    "four_bit": "optional CLI flag; use for Colab",
+    "truncation": false
+  },
+  "validation_mapping": "Legacy XLSX filename; Accuracy (0-2) is copied from HUMAN accuracy column",
+  "source_runner_sha256": "369c7ff317b17a5d26b5388dd019f0f5ec6a02dd0767215d342ef5fc5187d9c5",
+  "input_sha256": {
+    "input/scripts/run_experiment.py": "99eeda22b0fbbea77ee28689114fc8840525d89bf93a126206cdca00c1a709d1",
+    "input/data/trainset/Combined_QnA_with_Labels_annotated_1100.xlsx": "3fdc01a830afe6897dce208d4053040079e93b3c39a8215db5a86a201e9be293",
+    "input/data/varification set/anjali_dataset_with_claude_labels.xlsx": "75b5de947b2909593073cb9c8306dce27ac19c2ae592adeb855966e85ca4ae4d"
+  }
+}

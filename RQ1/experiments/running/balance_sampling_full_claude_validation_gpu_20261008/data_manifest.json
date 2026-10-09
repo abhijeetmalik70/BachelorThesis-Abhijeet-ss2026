@@ -1,0 +1,48 @@
+{
+  "validation": {
+    "path": "/Users/abhijeetmalik/Desktop/BachelorThesis-Abhijeet-ss2026/RQ1/active_learning_project/data/validationset/anjali_dataset_labeled.csv",
+    "sha256": "4ac00233e8b67f6d148d7bd5903b94a6badecad5585fc7162b30c0a9fb6096ea",
+    "rows": 100,
+    "label_columns": {
+      "accuracy": "claude_accuracy",
+      "context_relevance": "claude_context_relevance"
+    }
+  },
+  "train": {
+    "path": "/Users/abhijeetmalik/Desktop/BachelorThesis-Abhijeet-ss2026/RQ1/active_learning_project/data/trainset/trainset.xlsx",
+    "sha256": "92aa64be7c55fcdeb3fe8c7e172fd4a6547108814ebe0cf7cf70d6bc840a304e",
+    "rows": 1652,
+    "label_columns": {
+      "accuracy": "Accuracy",
+      "context_relevance": "Context & Relevance"
+    },
+    "excluded_records": [
+      {
+        "record_id": "1384",
+        "source_row": 1380,
+        "accuracy": 1,
+        "context_relevance": 2
+      },
+      {
+        "record_id": "1385",
+        "source_row": 1381,
+        "accuracy": 0,
+        "context_relevance": 2
+      }
+    ],
+    "selected_rows": 1650,
+    "shared_questions": 90,
+    "class_counts": {
+      "accuracy": {
+        "0": 42,
+        "1": 50,
+        "2": 1558
+      },
+      "context_relevance": {
+        "0": 52,
+        "1": 40,
+        "2": 1558
+      }
+    }
+  }
+}

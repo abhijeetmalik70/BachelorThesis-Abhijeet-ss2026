@@ -76,14 +76,14 @@ MODEL_REGISTRY = {
 
 }
 
-DEFAULT_Q_COL   = "Sanitized Question"     # input to the model
-DEFAULT_ANS_COL = "Answer Transcription"   # input to the model
+DEFAULT_Q_COL   = "question"     # input to the model
+DEFAULT_ANS_COL = "model_answer"   # input to the model
 
 # Ground-truth label columns — ALREADY PRESENT in the input dataset.
 # These are used only for evaluation after inference. They are never
 # passed to the model (the model only ever sees DEFAULT_Q_COL / DEFAULT_ANS_COL).
-DEFAULT_GT_ACC_COL = "Accuracy "
-DEFAULT_GT_REL_COL = "Context & Relevance "
+DEFAULT_GT_ACC_COL = "accuracy"
+DEFAULT_GT_REL_COL = "context_and_relevance"
 
 SCORE_MIN, SCORE_MAX = 0, 2
 PARSE_FAILURE        = -1                        # sentinel for failed parse rows

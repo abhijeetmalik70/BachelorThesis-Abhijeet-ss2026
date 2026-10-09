@@ -1,0 +1,10 @@
+torch>=2.6
+transformers>=4.50,<5
+peft>=0.15,<1
+accelerate>=1.5,<2
+bitsandbytes>=0.45,<1
+pandas>=2
+openpyxl>=3.1
+scikit-learn>=1.5
+scipy>=1.13
+matplotlib>=3.9

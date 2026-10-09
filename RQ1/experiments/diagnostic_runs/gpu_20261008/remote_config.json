@@ -1,0 +1,70 @@
+{
+  "name": "diagnostic_balanced_overfit_30",
+  "mode": "train",
+  "seed": 42,
+  "model": {
+    "id": "google/gemma-3-4b-it",
+    "revision": null,
+    "loader": "gemma3",
+    "four_bit": true
+  },
+  "data": {
+    "subset_seed": 42,
+    "train": {
+      "path": "RQ1/experiments/diagnostic_data/selected_30.csv",
+      "id": "record_id",
+      "question": "question",
+      "answer": "answer",
+      "accuracy": "accuracy",
+      "context_relevance": "context_relevance"
+    },
+    "validation": {
+      "path": "RQ1/active_learning_project/data/validationset/anjali_dataset_labeled.csv",
+      "question": "question",
+      "answer": "model_answer",
+      "accuracy": "accuracy",
+      "context_relevance": "context_and_relevance",
+      "id": "id"
+    }
+  },
+  "input": {
+    "policy": "full",
+    "max_sequence_length": 512,
+    "max_answer_tokens": null
+  },
+  "lora": {
+    "rank": 8,
+    "alpha": 16,
+    "dropout": 0.05,
+    "target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj"
+    ]
+  },
+  "training": {
+    "train_size": 30,
+    "epochs": 30,
+    "batch_size": 1,
+    "gradient_accumulation_steps": 3,
+    "learning_rate": 0.0002,
+    "warmup_ratio": 0.05,
+    "weight_decay": 0.0,
+    "max_grad_norm": 1.0,
+    "optimizer": "paged_adamw_8bit",
+    "balance": "none"
+  },
+  "inference": {
+    "batch_size": 1,
+    "repeats": 1,
+    "max_new_tokens": 64,
+    "do_sample": false,
+    "temperature": 0.7
+  },
+  "diagnostic": {
+    "evaluate_training_examples": true,
+    "balance_dimension": "accuracy",
+    "examples_per_class": 10
+  }
+}

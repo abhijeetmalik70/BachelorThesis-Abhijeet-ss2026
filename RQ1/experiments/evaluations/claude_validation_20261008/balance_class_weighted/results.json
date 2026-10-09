@@ -1,0 +1,822 @@
+{
+  "baseline": {
+    "runs": [
+      {
+        "accuracy": {
+          "macro_f1": 0.2857142857142857,
+          "exact_agreement": 0.75,
+          "prediction_counts": {
+            "0": 0,
+            "1": 21,
+            "2": 79,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.9493670886075949
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            0.78125
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.8571428571428571
+          ],
+          "support": [
+            1,
+            3,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              3,
+              0
+            ],
+            [
+              0,
+              21,
+              75,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "context_relevance": {
+          "macro_f1": 0.31762652705061084,
+          "exact_agreement": 0.91,
+          "prediction_counts": {
+            "0": 0,
+            "1": 5,
+            "2": 95,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.9578947368421052
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            0.9479166666666666
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.9528795811518325
+          ],
+          "support": [
+            0,
+            4,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              4,
+              0
+            ],
+            [
+              0,
+              5,
+              91,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "json_failure_rate": 0.0,
+        "strict_format_failure_rate": 1.0,
+        "selection_score": 0.30167040638244824,
+        "repeat": 0,
+        "seconds": 25.154038949869573,
+        "peak_gpu_allocated_bytes": 3702192128
+      },
+      {
+        "accuracy": {
+          "macro_f1": 0.2857142857142857,
+          "exact_agreement": 0.75,
+          "prediction_counts": {
+            "0": 0,
+            "1": 21,
+            "2": 79,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.9493670886075949
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            0.78125
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.8571428571428571
+          ],
+          "support": [
+            1,
+            3,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              3,
+              0
+            ],
+            [
+              0,
+              21,
+              75,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "context_relevance": {
+          "macro_f1": 0.31762652705061084,
+          "exact_agreement": 0.91,
+          "prediction_counts": {
+            "0": 0,
+            "1": 5,
+            "2": 95,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.9578947368421052
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            0.9479166666666666
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.9528795811518325
+          ],
+          "support": [
+            0,
+            4,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              4,
+              0
+            ],
+            [
+              0,
+              5,
+              91,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "json_failure_rate": 0.0,
+        "strict_format_failure_rate": 1.0,
+        "selection_score": 0.30167040638244824,
+        "repeat": 1,
+        "seconds": 25.541140399873257,
+        "peak_gpu_allocated_bytes": 3702192128
+      },
+      {
+        "accuracy": {
+          "macro_f1": 0.2857142857142857,
+          "exact_agreement": 0.75,
+          "prediction_counts": {
+            "0": 0,
+            "1": 21,
+            "2": 79,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.9493670886075949
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            0.78125
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.8571428571428571
+          ],
+          "support": [
+            1,
+            3,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              3,
+              0
+            ],
+            [
+              0,
+              21,
+              75,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "context_relevance": {
+          "macro_f1": 0.31762652705061084,
+          "exact_agreement": 0.91,
+          "prediction_counts": {
+            "0": 0,
+            "1": 5,
+            "2": 95,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.9578947368421052
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            0.9479166666666666
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.9528795811518325
+          ],
+          "support": [
+            0,
+            4,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              4,
+              0
+            ],
+            [
+              0,
+              5,
+              91,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "json_failure_rate": 0.0,
+        "strict_format_failure_rate": 1.0,
+        "selection_score": 0.30167040638244824,
+        "repeat": 2,
+        "seconds": 25.664189712144434,
+        "peak_gpu_allocated_bytes": 3702192128
+      }
+    ],
+    "disagreement_rate": 0.0
+  },
+  "training": {
+    "seconds": 484.97967294300906,
+    "peak_gpu_allocated_bytes": 7797670912,
+    "effective_batch_size": 24,
+    "checkpoint_rule": "final epoch",
+    "class_weights": {
+      "accuracy": {
+        "0": 15.151515151515152,
+        "1": 8.333333333333334,
+        "2": 0.35536602700781805
+      },
+      "context_relevance": {
+        "0": 9.803921568627452,
+        "1": 12.820512820512821,
+        "2": 0.3546099290780142
+      }
+    }
+  },
+  "adapted": {
+    "runs": [
+      {
+        "accuracy": {
+          "macro_f1": 0.32653061224489793,
+          "exact_agreement": 0.96,
+          "prediction_counts": {
+            "0": 0,
+            "1": 0,
+            "2": 100,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.96
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.9795918367346939
+          ],
+          "support": [
+            1,
+            3,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              3,
+              0
+            ],
+            [
+              0,
+              0,
+              96,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "context_relevance": {
+          "macro_f1": 0.32653061224489793,
+          "exact_agreement": 0.96,
+          "prediction_counts": {
+            "0": 0,
+            "1": 0,
+            "2": 100,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.96
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.9795918367346939
+          ],
+          "support": [
+            0,
+            4,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              4,
+              0
+            ],
+            [
+              0,
+              0,
+              96,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "json_failure_rate": 0.0,
+        "strict_format_failure_rate": 0.0,
+        "selection_score": 0.32653061224489793,
+        "repeat": 0,
+        "seconds": 28.794778539100662,
+        "peak_gpu_allocated_bytes": 5521704448
+      },
+      {
+        "accuracy": {
+          "macro_f1": 0.32653061224489793,
+          "exact_agreement": 0.96,
+          "prediction_counts": {
+            "0": 0,
+            "1": 0,
+            "2": 100,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.96
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.9795918367346939
+          ],
+          "support": [
+            1,
+            3,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              3,
+              0
+            ],
+            [
+              0,
+              0,
+              96,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "context_relevance": {
+          "macro_f1": 0.32653061224489793,
+          "exact_agreement": 0.96,
+          "prediction_counts": {
+            "0": 0,
+            "1": 0,
+            "2": 100,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.96
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.9795918367346939
+          ],
+          "support": [
+            0,
+            4,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              4,
+              0
+            ],
+            [
+              0,
+              0,
+              96,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "json_failure_rate": 0.0,
+        "strict_format_failure_rate": 0.0,
+        "selection_score": 0.32653061224489793,
+        "repeat": 1,
+        "seconds": 28.80837696301751,
+        "peak_gpu_allocated_bytes": 5521704448
+      },
+      {
+        "accuracy": {
+          "macro_f1": 0.32653061224489793,
+          "exact_agreement": 0.96,
+          "prediction_counts": {
+            "0": 0,
+            "1": 0,
+            "2": 100,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.96
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.9795918367346939
+          ],
+          "support": [
+            1,
+            3,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              3,
+              0
+            ],
+            [
+              0,
+              0,
+              96,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "context_relevance": {
+          "macro_f1": 0.32653061224489793,
+          "exact_agreement": 0.96,
+          "prediction_counts": {
+            "0": 0,
+            "1": 0,
+            "2": 100,
+            "-1": 0
+          },
+          "precision": [
+            0.0,
+            0.0,
+            0.96
+          ],
+          "recall": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "f1": [
+            0.0,
+            0.0,
+            0.9795918367346939
+          ],
+          "support": [
+            0,
+            4,
+            96
+          ],
+          "confusion_labels": [
+            0,
+            1,
+            2,
+            -1
+          ],
+          "confusion_matrix": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              4,
+              0
+            ],
+            [
+              0,
+              0,
+              96,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "json_failure_rate": 0.0,
+        "strict_format_failure_rate": 0.0,
+        "selection_score": 0.32653061224489793,
+        "repeat": 2,
+        "seconds": 28.981195578118786,
+        "peak_gpu_allocated_bytes": 5521704448
+      }
+    ],
+    "disagreement_rate": 0.0
+  }
+}

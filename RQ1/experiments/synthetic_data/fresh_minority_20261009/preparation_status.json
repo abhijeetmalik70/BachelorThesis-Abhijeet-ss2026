@@ -1,0 +1,30 @@
+{
+  "status": "generation_smoke_running",
+  "synthetic_targets": {
+    "0": 1516,
+    "1": 1508
+  },
+  "approved_draft_counts": {
+    "0": 6,
+    "1": 6
+  },
+  "additional_generation_needed": {
+    "0": 1510,
+    "1": 1502
+  },
+  "training_started": false,
+  "generation_started": true,
+  "independent_label_review": false,
+  "preferred_generator": "Qwen/Qwen2.5-32B-Instruct",
+  "generator_for_16gb_if_needed": "Qwen/Qwen2.5-14B-Instruct",
+  "generator_runtime_verified": false,
+  "selected_generator": "Qwen/Qwen2.5-14B-Instruct",
+  "remote_root": "/home/abma00001/rq1_fresh_minority_generation_20261009",
+  "remote_smoke_pid": 832219,
+  "remote_uses_existing_source_data": true,
+  "remote_draft_seed_included": false,
+  "remote_generation_targets": {
+    "0": 1516,
+    "1": 1508
+  }
+}

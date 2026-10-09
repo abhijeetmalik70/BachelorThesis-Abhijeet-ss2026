@@ -1,0 +1,46 @@
+{
+  "scope": "All-row structural checks and 12 targeted semantic examples, not exhaustive expert reannotation.",
+  "rows_total": 1658,
+  "rows_labeled": 1100,
+  "rows_unlabeled": 558,
+  "label_counts": {
+    "Accuracy": {
+      "2": 1035,
+      "0": 43,
+      "1": 22
+    },
+    "Context & Relevance": {
+      "2": 1045,
+      "0": 45,
+      "1": 10
+    }
+  },
+  "source_counts": {
+    "SRHR": 1050,
+    "Mental Wellness": 50
+  },
+  "int_file_present_at_generation": false,
+  "int_file_accuracy_changes_in_labeled_rows": null,
+  "int_file_blank_accuracy_replaced_by_zero": null,
+  "test_exact_pair_overlap": 116,
+  "test_size": 166,
+  "validation_exact_pair_overlap": null,
+  "validation_question_overlap": null,
+  "placeholder_row_ids": [
+    407,
+    429,
+    912,
+    1038
+  ],
+  "duplicate_row_ids": [
+    1384,
+    1385
+  ],
+  "validation_version_accuracy_differences": null,
+  "validation_version_context_differences": null,
+  "agreement_metrics": [],
+  "input_sha256": {
+    "trainset/Combined_QnA_with_Labels_annotated_1100.xlsx": "85f8365b806197a88fcfb9d3ab0b17c22c76100d67b3c28070899332314b2eeb",
+    "testset/final_test.xlsx": "24651716dae208f6757c4b5a22e0e1edda1f98cbe4a501ba9737e65a681ec187"
+  }
+}
